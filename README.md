@@ -9,9 +9,9 @@ python main.py
 ```
 
 ## Build for Web (HTML5)
-
+Go up 1 folder then use pygbag
 ```bash
-cd .. #up 1 folder
+cd .. 
 pygbag pygame-practice-car-game
 ```
 
